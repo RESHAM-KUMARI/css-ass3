@@ -1,0 +1,199 @@
+body{
+    background-color: rgb(65, 60, 60);
+    
+}
+
+.div1{
+    height: 120px;
+    width: 500px;
+    color: red;
+    background-color: white;
+    border: 8px solid red;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+    margin-left: 450px;
+    padding-bottom: 30px;
+    box-shadow: 10px 5px 8px purple;
+    border-radius: 15px;
+   
+}
+.silk1{
+    color:black;
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    font-size:50px;
+    box-shadow: 10px 5px 8px purple;
+    padding-top: 10px;
+    text-align: center;
+    border: 8px solid red;
+    border-radius: 15px;
+    text-shadow: 1px 2px 2px purple;
+}
+
+#grid{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -20px;
+    padding-top: 12px;
+    
+}
+.silk2{
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    border: 5px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 5px 8px purple;
+    padding: 10px;
+    align-items: center;
+    margin-left: 900px;
+}
+.silk3{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    border: 8px solid red;
+    border-radius: 15px;
+    box-shadow: 10px 5px 8px purple;
+    padding: 10px;
+    align-items: center;
+    text-shadow: 1px 2px 2px purple;
+    font-size: 25px;
+    font-weight: bold;
+}
+.silk4{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    border: 8px solid red;
+    border-radius: 15px;
+    box-shadow: 10px 5px 8px purple;
+    align-items: center;
+    text-shadow: 1px 2px 2px purple;
+    clear: right;
+    margin-top: 20px;
+    margin-left: 900px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.div2{
+    display: flex;
+    flex-direction: row;
+}
+.rate{
+    font-size: 20px;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.main1{ 
+    border: 9px solid green;
+   
+}
+label{
+    font-size: 13px;
+}
+input{
+    width: 120px;
+    height: 10px;
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    color: black;
+    background-color: rgb(239, 49, 49);
+    border-radius: 10px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.main2{
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    text-align: center;
+}
+.bottom{
+    margin-top: 20px;
+    background-color: green;
+    border: 8px solid purple;;
+    width:700px;
+    margin-left: 400px;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.fruit{
+    color:rgba(0, 0, 0, 0.663);
+    background-color:rgb(227, 227, 117);
+    margin-right: 10px;
+    height: 250px;
+    width: 70%;
+    font-weight: bold;
+    font-style: italic;
+    font-size: small;
+}
+.Vegetables{
+    color:rgba(0, 0, 0, 0.663);
+    background-color:rgb(227, 227, 117);
+    width: 70%;
+    font-weight: bold;
+    font-size: small;
+    font-style:italic ;
+}
+
+.other{
+    color:rgba(0, 0, 0, 0.663);
+    background-color:rgb(227, 227, 117);
+    height: 250px;
+    padding: 10px;
+    margin-top: 10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+}
+.h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.GREEN{
+    height: 70px;
+    width: 500px;
+    color: rgb(160, 9, 9);
+    border: 8px solid red;
+    border-radius: 15px;
+    background-color: rgb(180, 180, 17);
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 8px purple;
+    margin-left: 500px;
+    align-items: center;
+    font-style: italic;
+    text-shadow: 1px 1px 2px purple;
+    position: fixed;
+}
+
+.p1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+}
